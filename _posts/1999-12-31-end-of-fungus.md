@@ -4,3 +4,5 @@ date: 1999-11-30
 ---
 
 End of a year of fungus
+
+シャケ、鱒、こんぶ
